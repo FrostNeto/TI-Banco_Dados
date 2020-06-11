@@ -16,5 +16,10 @@ namespace TI_Banco_Dados
         {
             InitializeComponent();
         }
+
+        private void atrelarToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
